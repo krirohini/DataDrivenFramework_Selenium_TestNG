@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16043" started-at="2017-03-13T03:57:57Z" finished-at="2017-03-13T03:58:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16043" started-at="2017-03-13T03:57:57Z" finished-at="2017-03-13T03:58:13Z">
+      <class name="com.apex.google.login.GoogleLoginTest_NG">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.apex.google.login.GoogleLoginTest_NG@6a4f787b]" name="setup" is-config="true" duration-ms="8038" started-at="2017-03-12T20:57:57Z" finished-at="2017-03-12T20:58:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testGoogleLoginWithBlankUserID()[pri:0, instance:com.apex.google.login.GoogleLoginTest_NG@6a4f787b]" name="testGoogleLoginWithBlankUserID" duration-ms="1276" started-at="2017-03-12T20:58:05Z" finished-at="2017-03-12T20:58:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGoogleLoginWithBlankUserID -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.apex.google.login.GoogleLoginTest_NG@6a4f787b]" name="teardown" is-config="true" duration-ms="7" started-at="2017-03-12T20:58:06Z" finished-at="2017-03-12T20:58:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.apex.google.login.GoogleLoginTest_NG@6a4f787b]" name="setup" is-config="true" duration-ms="4646" started-at="2017-03-12T20:58:06Z" finished-at="2017-03-12T20:58:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testGoogleLoginWithFailedLogin()[pri:0, instance:com.apex.google.login.GoogleLoginTest_NG@6a4f787b]" name="testGoogleLoginWithFailedLogin" duration-ms="2052" started-at="2017-03-12T20:58:11Z" finished-at="2017-03-12T20:58:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGoogleLoginWithFailedLogin -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.apex.google.login.GoogleLoginTest_NG@6a4f787b]" name="teardown" is-config="true" duration-ms="7" started-at="2017-03-12T20:58:13Z" finished-at="2017-03-12T20:58:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.apex.google.login.GoogleLoginTest_NG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
